@@ -1,8 +1,5 @@
 # HR_System
-Project Overview:
-
-The project is an HR management system designed to handle employee information, benefits, and payroll for a company.
-It allows users to add, search, edit, delete, and display employee details, as well as calculate the total payroll and display department information.
+System that allows user to add employees and store information about each type employee based on their department. This system allows user to add employees, delete, edit saved employees, search specific employees, by name or employee id, and display all employees. This program contains advanced OOP concepts some of which, inheritance, polymorphism, encapsulation, operator overloading, and operator overriding.
 
 Functions:
 ------------------------
